@@ -4,6 +4,7 @@ scipy
 scikit-learn
 matplotlib
 seaborn
+plotly
 pandas
 numpy
 tqdm
