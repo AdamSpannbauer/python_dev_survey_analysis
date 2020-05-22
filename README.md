@@ -6,8 +6,6 @@ Raw data can be found here: [https://drive.google.com/drive/folders/1GW86M_QLFOA
 
 Project was performed as a demo and this restricted the work to a < 1 week timeline.
 
-
-
 ## Results of Cluster Analysis
 
 Questions were analyzed in 3 groups: (1) how involved are you with, (2) general, & (3) how often do you.
@@ -23,27 +21,37 @@ Analyzing / polling these groups might lead to valuable market analysis of these
 
 #### Cluster differences on 'how involved are you with' questions
 
-<img src='readme/involved.png' width=90%>
+<p align='center'>
+ <img src='readme/involved.png' width=90%>
+</p>
 
 Cluster 4 (the cluster with the most professional coding experience) dominates most of these categories. The exception is in 'Machine Learning' and 'Data Analysis' where Cluster 3 (the least experienced cluster) marked the highest involvement. Cluster 3 appears to be newer to programming and more involved in 'Data Science' tasks.  Is this explained by being new to the field in general or because their more focused on the math/stats side of these tasks?
 
 #### Cluster differences on general questions
 
-<img src='readme/code_exp.png' width=70%>
-
+<p align='center'>
+ <img src='readme/code_exp.png' width=70%>
+</p>
+   
 Order of average coding experience: 4, 1, 0, 2, 3
 
-<img src='readme/py_exp.png' width=70%>
+<p align='center'>
+ <img src='readme/py_exp.png' width=70%>
+</p>
 
 Order of average Python experience: 4, 0, 1, 2, 3
 
 Everyone's average experience stayed fairly similiar to their response to the general coding experience question. The exception to this is Cluster 1 who had the biggest drop in experience. Cluster 1 is also the cluster who reported they don't use Python as their main language.
 
-<img src='readme/python_main_lang.png' width=70%>
+<p align='center'>
+ <img src='readme/python_main_lang.png' width=70%>
+</p>
 
 #### Cluster differences on 'how often do you' questions
 
-<img src='readme/often.png' width=90%>
+<p align='center'>
+ <img src='readme/often.png' width=90%>
+</p>
 
 This explains why Cluster 2 exists. Cluster 2 was by far the least likely to mark that they did any of these activities 🤦.  This might indicate they skipped this section rather than them actually not doing these activities.
 
