@@ -4,7 +4,7 @@ Analysis of [Python Developers Survey 2019 Results](https://www.jetbrains.com/lp
 
 Raw data can be found here: [https://drive.google.com/drive/folders/1GW86M_QLFOA2KyeWeb8hzBj_RqQIXmAU?usp=sharing](https://drive.google.com/drive/folders/1GW86M_QLFOA2KyeWeb8hzBj_RqQIXmAU?usp=sharing)
 
-Project was performed as a demo and this restricted the work to a < 1 week timeline.
+Project was performed as a demo and this restricted the work to a < 1 week timeline.  The demo was to show how you might perform and present a cluster analysis.  This was the sole reason that a cluster analysis was performed over other techniques.
 
 ## Results of Cluster Analysis
 
@@ -32,7 +32,7 @@ Cluster 4 (the cluster with the most professional coding experience) dominates m
 <p align='center'>
  <img src='readme/code_exp.png' width=70%>
 </p>
-   
+
 Order of average coding experience: 4, 1, 0, 2, 3
 
 <p align='center'>
